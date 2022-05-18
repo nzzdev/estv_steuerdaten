@@ -2,7 +2,7 @@
 ## Installation
 Clone Repo:
 ```
-git clone git@github.com:nzzdev/steuerrechner_scraper.git
+git clone git@github.com:nzzdev/estv_steuerdaten.git
 ```
 
 Create virtual env (python3!): Open folder in terminal
