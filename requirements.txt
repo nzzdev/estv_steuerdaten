@@ -1,0 +1,4 @@
+requests==2.27.1
+ipykernel==6.9.0
+fake-useragent==0.1.11
+pandas==1.4.0
